@@ -1,0 +1,5 @@
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\Entity\bin\Debug\Entity.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\Entity\bin\Debug\Entity.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\Entity\obj\Debug\Entity.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\Entity\obj\Debug\Entity.pdb

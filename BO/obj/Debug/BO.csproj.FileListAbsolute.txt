@@ -1,0 +1,24 @@
+G:\Programming\Visual studio\FormSnapping\BO\bin\Debug\BO.dll
+G:\Programming\Visual studio\FormSnapping\BO\bin\Debug\BO.pdb
+G:\Programming\Visual studio\FormSnapping\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+G:\Programming\Visual studio\FormSnapping\BO\obj\Debug\BO.dll
+G:\Programming\Visual studio\FormSnapping\BO\obj\Debug\BO.pdb
+N:\ \FormSnapping\BO\bin\Debug\BO.dll
+N:\ \FormSnapping\BO\bin\Debug\BO.pdb
+N:\ \FormSnapping\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+N:\ \FormSnapping\BO\obj\Debug\BO.dll
+N:\ \FormSnapping\BO\obj\Debug\BO.pdb
+E:\Form Dragging\BO\bin\Debug\BO.dll
+E:\Form Dragging\BO\bin\Debug\BO.pdb
+E:\Form Dragging\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\Form Dragging\BO\obj\Debug\BO.dll
+E:\Form Dragging\BO\obj\Debug\BO.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\bin\Debug\BO.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\bin\Debug\BO.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\bin\Debug\DAL.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\bin\Debug\Entity.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\bin\Debug\DAL.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\bin\Debug\Entity.pdb
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\obj\Debug\BO.dll
+E:\Programing\C Sharp  ( C#)\Visual Studio 2013\Projects\Form Dragging\BO\obj\Debug\BO.pdb
